@@ -16,8 +16,9 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Ship Studio",
-  description: "Build marketing sites with Claude Code. No coding required.",
+  title: "AppShot — Mobile App Launch Page",
+  description:
+    "The conversion-optimized landing page for your mobile app launch. Device mockups, app store buttons, download stats, and more.",
 };
 
 export default function RootLayout({
